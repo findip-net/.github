@@ -14,6 +14,6 @@ By contributing, you agree that your contribution may be distributed under the l
 
 ## Maintainer publishing identity
 
-Official maintenance commits, direct pushes, releases, and repository administration are performed through `findip-bot` or approved GitHub Actions automation. Maintainer commits use the `FindIP <info@findip.net>` Git identity.
+Official maintenance commits, direct pushes, and releases are performed through `findip-bot` or approved GitHub Actions automation. Maintainer commits use the `FindIP <info@findip.net>` Git identity.
 
 Community contributions should be submitted through pull requests. Never include credentials, private customer data, internal service configuration, or other confidential material in a public issue, commit, or pull request.
