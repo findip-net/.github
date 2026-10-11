@@ -20,7 +20,11 @@ The clips use sample data, and their captions are on screen.
 - [Get started with FindIP Shield](https://findip.net/docs/shield/quickstart)
 - [Install `@findip/shield` from npm](https://www.npmjs.com/package/@findip/shield)
 - [JavaScript SDK](https://github.com/findip-net/findip-shield-js)
+- [Framework examples](https://github.com/findip-net/findip-shield-examples): Next.js, React, Vue, Astro, SvelteKit and plain HTML, plus a coding-agent skill
+- [WordPress and WooCommerce plugin](https://github.com/findip-net/findip-shield-wordpress) ([WordPress.org](https://wordpress.org/plugins/findip-shield/))
+- [Shopify app](https://github.com/findip-net/findip-shield-shopify) ([App Store](https://apps.shopify.com/findip-shield))
 - [Google Tag Manager template](https://github.com/findip-net/findip-shield-gtm)
+- [MCP server for AI assistants](https://github.com/findip-net/findip-mcp): `npx -y @findip/mcp`
 - [FindIP website](https://findip.net)
 
 ```bash
